@@ -1,0 +1,9 @@
+name: BetaPlugin
+version: 1.2
+api-version: 1.21
+main: com.author.BetaPlugin.BetaPlugin
+
+commands:
+  test:
+    description: Tests the plugin
+    usage: /test
